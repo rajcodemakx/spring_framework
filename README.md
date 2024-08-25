@@ -43,7 +43,7 @@ Here, you'll find individual projects organized by topic, each aimed at helping 
 <h4>TOPICS:</h4>
 <ul>
   <li>
-    <strong>Tight Coupling Example:</strong>
+    <strong>Tight Coupling Java :</strong>
     <a href="https://github.com/rajcodemakx/spring_framework/tree/main/01-springApplication-tightCoupling">Tight coupling</a>
   </li>
 <!--   <li>
