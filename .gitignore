@@ -1,0 +1,34 @@
+# Ignore build directories
+/target/
+build/
+
+# Ignore IDE-specific files
+*.iml
+.idea/
+*.sublime-workspace
+*.sublime-project
+*.vscode/
+
+# Ignore OS-generated files
+.DS_Store
+Thumbs.db
+
+# Ignore log files
+*.log
+
+# Ignore environment variables
+*.env
+*.env.local
+
+# Ignore compiled Java files
+*.class
+*.jar
+*.war
+*.ear
+
+# Ignore Maven and Gradle dependency directories
+/.m2/
+.gradle/
+
+# Ignore .gitignore files in subdirectories (if you want to keep the root-level .gitignore only)
+**/.gitignore
