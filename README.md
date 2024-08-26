@@ -46,9 +46,13 @@ Here, you'll find individual projects organized by topic, each aimed at helping 
     <strong>Tight Coupling Java :</strong>
     <a href="https://github.com/rajcodemakx/spring_framework/tree/main/01-springApplication-tightCoupling">Tight coupling</a>
   </li>
-<!--   <li>
+   <li>
     <strong>Loose Coupling Example:</strong>
-    <a href="https://github.com/rajcodemakx/spring_framework/tree/main/02-springApplication-looseCoupling">Explore Project</a>
+    <a href="https://github.com/rajcodemakx/spring_framework/tree/main/02-springApplication-loose-coupling">Loose coupling</a>
+  </li>
+  <!--<li>
+    <strong>Loose Coupling Example:</strong>
+    <a href="https://github.com/rajcodemakx/spring_framework/tree/main/02-springApplication-loose-coupling">Explore Project</a>
   </li> -->
   <!-- Add more projects as needed -->
 </ul>
