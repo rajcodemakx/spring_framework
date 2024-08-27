@@ -54,7 +54,6 @@ Here, you'll find individual projects organized by topic, each aimed at helping 
     <strong>Loose Coupling Example:</strong>
     <a href="https://github.com/rajcodemakx/spring_framework/tree/main/02-springApplication-loose-coupling">Explore Project</a>
   </li> -->
-  <!-- Add more projects as needed -->
 </ul>
 
 <h4>Key Concepts Covered:</h4>
