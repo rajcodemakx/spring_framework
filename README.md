@@ -50,10 +50,14 @@ Here, you'll find individual projects organized by topic, each aimed at helping 
     <strong>Loose Coupling :</strong>
     <a href="https://github.com/rajcodemakx/spring_framework/tree/main/02-springApplication-loose-coupling">Loose coupling</a>
   </li>
-  <!--<li>
-    <strong>Loose Coupling Example:</strong>
-    <a href="https://github.com/rajcodemakx/spring_framework/tree/main/02-springApplication-loose-coupling">Explore Project</a>
-  </li> -->
+  <li>
+    <strong>DI :</strong>
+    <a href="https://github.com/rajcodemakx/spring_framework/tree/main/02-DesignPattern">DI in core java</a>
+  </li> 
+  <li>
+    <strong>Sring First Application:</strong>
+    <a href="https://github.com/rajcodemakx/spring_framework/tree/main/03-IOC-xml">Spring IOC</a>
+  </li> 
 </ul>
 
 <h4>Key Concepts Covered:</h4>
